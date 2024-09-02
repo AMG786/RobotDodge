@@ -1,6 +1,7 @@
 Robot Dodge is an exciting 2D game built using C# and the SplashKit SDK. Players control a character that must dodge various types of robots while shooting them down to survive and score points.
 
-![Robot Dodge Game Screenshot](robot_dodge_screenshot.png)
+![7 2C](https://github.com/user-attachments/assets/0ddb6b16-e4eb-40cb-ad41-e1accde3ddb3)
+
 
 ## Table of Contents
 - [Features](#features)
@@ -56,7 +57,7 @@ The game consists of several key classes:
 - `Bullet`: Defines the bullet object and its behavior.
 
 ## Class Diagram
-![Class Diagram](class_diagram.png)
+![image](https://github.com/user-attachments/assets/29192ba2-541d-435b-b1df-f356c4626472)
 
 The class diagram shows the relationships between the main classes in the game:
 - `Program` creates an instance of `RobotDodgeGame`.
